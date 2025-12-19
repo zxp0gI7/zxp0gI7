@@ -1,33 +1,46 @@
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Java+Backend+Developer;Spring+Boot+Enthusiast;Keep+Coding)
-## 👋 Hi there, I'm zxp0gI7
+<h1 align="center">Hi 👋, I'm zxp0gI7</h1>
 
-💻 Java Backend Developer  
-🌱 专注于业务系统设计 & 后端工程实践  
-🚀 Spring Boot / Redis / MySQL / 高并发处理
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?size=22&center=true&vCenter=true&width=500&lines=Java+Backend+Developer;Spring+Boot+%7C+Redis+%7C+MySQL;Keep+Coding+Keep+Learning" />
+</p>
+
+---
+
+### 🚀 About Me
+- 💻 Java 后端开发工程师  
+- 🧠 热衷业务系统设计 & 工程化落地  
+- ⚙️ 偏爱 **高并发 / Redis / 审批流 / 积分系统**
+- 🔥 追求 **优雅、可维护、可扩展的代码**
 
 ---
 
 ### 🛠 Tech Stack
-<img src="https://skillicons.dev/icons?i=java,spring,mysql,redis,docker,linux,git" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,spring,mysql,redis,docker,linux,git&theme=dark" />
+</p>
 
 ---
 
 ### 📈 GitHub Stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=zxp0gI7&show_icons=true&theme=tokyonight)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=zxp0gI7&show_icons=true&theme=tokyonight&hide_border=true" />
+</p>
 
 ---
 
 ### 📊 Most Used Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zxp0gI7&layout=compact)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zxp0gI7&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
 
 ---
 
-### 🧠 What I'm working on
-- ✅ 业务审批流 & 权限系统设计
-- ✅ 积分 / 账户 / 商品管理系统
-- ✅ Redis 在高并发场景下的实践
+### 🐍 Contribution Snake
+<p align="center">
+  <img src="https://raw.githubusercontent.com/zxp0gI7/zxp0gI7/output/github-contribution-grid-snake.svg" />
+</p>
 
 ---
 
-### 📫 Contact Me
-- GitHub: [@zxp0gI7](https://github.com/zxp0gI7)
+### 🌌 Motto
+> Code is cheap. **Show me the architecture.**
