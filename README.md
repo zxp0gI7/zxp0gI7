@@ -11,10 +11,22 @@
 </p>
 
 ---
+# Languages & Techologies<br>
 
-## ⚙️ About Me
-```text
-> Backend engineer who cares about:
-> • scalability
-> • performance
-> • clean architecture
+
+![JavaScipt](https://img.shields.io/badge/JavaScript-blue)
+![HTML](https://img.shields.io/badge/html-yellow)
+![Css](https://img.shields.io/badge/Css-green)
+![Vue.js](https://img.shields.io/badge/Vue.js-pink)
+![Python](https://img.shields.io/badge/Python-purple)
+![C](https://img.shields.io/badge/C-orange)
+![Java](https://img.shields.io/badge/Java-gray)
+![SQL](https://img.shields.io/badge/SQL-black)
+![R](https://img.shields.io/badge/R-silver)
+![Git](https://img.shields.io/badge/Git-gold)
+![Sas](https://img.shields.io/badge/Sas-rose)
+
+
+
+<br/>  
+ 
