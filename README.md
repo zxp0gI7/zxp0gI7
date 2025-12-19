@@ -8,6 +8,10 @@
   <img src="https://img.shields.io/badge/Java-Backend-critical?style=for-the-badge&logo=java" />
   <img src="https://img.shields.io/badge/Spring-Boot-brightgreen?style=for-the-badge&logo=spring" />
   <img src="https://img.shields.io/badge/Redis-InMemory-red?style=for-the-badge&logo=redis" />
+</p>
+
+---
+# Languages & Techologies
   <br>
   ![JavaScipt](https://img.shields.io/badge/JavaScript-blue)
   ![HTML](https://img.shields.io/badge/html-yellow)
@@ -21,11 +25,6 @@
   ![Git](https://img.shields.io/badge/Git-gold)
   ![Sas](https://img.shields.io/badge/Sas-rose)
   <br/>
-</p>
-
----
-# Languages & Techologies
-
 
 
 
